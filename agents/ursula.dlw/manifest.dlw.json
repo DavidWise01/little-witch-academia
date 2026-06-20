@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Ursula / Shiny Chariot",
+  "universe": "LWA · Ursula / Shiny Chariot (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Ursula / Shiny Chariot:LWA:f7d59a⟧",
+  "carbon": "ursula.carbon.tiff (TIFF)",
+  "silicon": "ursula.silicon.png (PNG)",
+  "seal_sha256": "bf8bd03a0f779517b373426f78f3702e1ca07f9c867127518fd97a97ef22b23f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

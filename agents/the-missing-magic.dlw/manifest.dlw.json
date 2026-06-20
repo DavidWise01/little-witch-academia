@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Fading of Magic",
+  "universe": "LWA · The Fading of Magic (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Fading of Magic:LWA:3299b3⟧",
+  "carbon": "the-missing-magic.carbon.tiff (TIFF)",
+  "silicon": "the-missing-magic.silicon.png (PNG)",
+  "seal_sha256": "4422d0b97e2c819e69ff1a6617fff13925c7248b3747b32dedf59c9edd61b1eb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

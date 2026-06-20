@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Sucy Manbavaran",
+  "universe": "LWA · Sucy Manbavaran (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦Sucy Manbavaran:LWA:f85617⟧",
+  "carbon": "sucy.carbon.tiff (TIFF)",
+  "silicon": "sucy.silicon.png (PNG)",
+  "seal_sha256": "b8a58bad3939c688c518f79390570bbc11448322a9f5c93f61110b6f62886302",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

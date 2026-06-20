@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "LITTLE WITCH ACADEMIA",
+  "universe": "LWA · LITTLE WITCH ACADEMIA (entertainment · anime-world)",
+  "emergence": "",
+  "moniker": "⟦LITTLE WITCH ACADEMIA:LWA:e22243⟧",
+  "carbon": "little-witch-academia.carbon.tiff (TIFF)",
+  "silicon": "little-witch-academia.silicon.png (PNG)",
+  "seal_sha256": "9ed20eff07b648acddfb86aa7a62fa1582bed001702aefcb58666a5a225c00f4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

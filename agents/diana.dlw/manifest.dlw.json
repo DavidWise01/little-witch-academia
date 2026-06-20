@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Diana Cavendish",
+  "universe": "LWA · Diana Cavendish (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Diana Cavendish:LWA:dd933e⟧",
+  "carbon": "diana.carbon.tiff (TIFF)",
+  "silicon": "diana.silicon.png (PNG)",
+  "seal_sha256": "a8f2bb9cebfe21613bd2169d1ae4615ea97b16f7926f3ed37f113a9b44965964",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

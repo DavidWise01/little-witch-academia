@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Lotte Jansson",
+  "universe": "LWA · Lotte Jansson (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Lotte Jansson:LWA:9b3e68⟧",
+  "carbon": "lotte.carbon.tiff (TIFF)",
+  "silicon": "lotte.silicon.png (PNG)",
+  "seal_sha256": "50644a7f347433d4918268c69f2ec6d6795e545e05f9c7a8d244896f63890161",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

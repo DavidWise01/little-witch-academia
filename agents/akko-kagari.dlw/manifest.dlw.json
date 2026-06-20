@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Atsuko 'Akko' Kagari",
+  "universe": "LWA · Atsuko 'Akko' Kagari (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Atsuko 'Akko' Kagari:LWA:0bd591⟧",
+  "carbon": "akko-kagari.carbon.tiff (TIFF)",
+  "silicon": "akko-kagari.silicon.png (PNG)",
+  "seal_sha256": "ffd505de1c9f518e9b2a0bad3fa275c048cb98efa9783007985249c4986d7d7c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
